@@ -75,4 +75,4 @@ Aceite os termos e clique em R**un**
 
 Próximo passo importar o SDK para a aplicação
 
-![Captura de Tela 2025-06-29 às 22.28.06.png](Pra%CC%81tica%20Ana%CC%81lise%20de%20Sentimentos%20com%20Language%20Stud%2022220fca93d1803ba176d3e99d16995a/Captura_de_Tela_2025-06-29_as_22.28.06.png)
+
