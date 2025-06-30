@@ -9,7 +9,7 @@ Ir em criar recursos
 - selecionar a categoria **IA + Machine Learning**
 - Selecionar **Language** clicando ****em **criar**
 
-[![Captura de Tela 2025-06-29 às 22.04.13.png]([Pra%CC%81tica%20Ana%CC%81lise%20de%20Sentimentos%20com%20Language%20Stud%2022220fca93d1803ba176d3e99d16995a/Captura_de_Tela_2025-06-29_as_22.04.13.png](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%201.png)](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%201.png)
+[[![Captura de Tela 2025-06-29 às 22.04.13.png][([Pra%CC%81tica%20Ana%CC%81lise%20de%20Sentimentos%20com%20Language%20Stud%2022220fca93d1803ba176d3e99d16995a/Captura_de_Tela_2025-06-29_as_22.04.13.png](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%201.png)](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%201.png)](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%202.png)](https://github.com/jeanandrade1/An-lise-de-Sentimentos-com-Language-Studio-no-Azure-AI/blob/main/images/Captura%201.png)
 
 Clicar em **Continue to create resource**
 
